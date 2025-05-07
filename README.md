@@ -64,6 +64,9 @@ StudentManagementSystem/
 
 ## 👩‍💻 Author
 
-**Nandini Jhunjhunwal**  
+**Nandini Jhunjhunwal** 
+**Nomita Patwal**
+**Mehak Garg**
+**Megha** 
 2nd-year B.Tech CSE student  
 Focused on mastering backend development with practical, hands-on projects.
